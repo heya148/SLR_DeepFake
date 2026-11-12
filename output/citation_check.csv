@@ -1,0 +1,56 @@
+id,doi,claimed,resolved,score,status
+1,10.48550/arXiv.2103.12376,Generalizing Face Forgery Detection with High-frequency Features,Generalizing Face Forgery Detection with High-frequency Features,100.0,PASS
+2,10.48550/arXiv.2501.09617,WMamba: Wavelet-based Mamba for Face Forgery Detection,WMamba: Wavelet-based Mamba for Face Forgery Detection,100.0,PASS
+3,10.48550/arXiv.2210.03899,Multi-Scale Wavelet Transformer for Face Forgery Detection,Multi-Scale Wavelet Transformer for Face Forgery Detection,100.0,PASS
+5,10.48550/arXiv.2103.01856,Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain,Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain,100.0,PASS
+6,10.48550/arXiv.2307.11438,Attention Consistency Refined Masked Frequency Forgery Representation for Generalizing Face Forgery Detection,Attention Consistency Refined Masked Frequency Forgery Representation for Generalizing Face Forgery Detection,100.0,PASS
+7,10.48550/arXiv.2512.04331,Open Set Face Forgery Detection via Dual-Level Evidence Collection,Open Set Face Forgery Detection via Dual-Level Evidence Collection,100.0,PASS
+8,10.48550/arXiv.2105.02577,Local Relation Learning for Face Forgery Detection,Local Relation Learning for Face Forgery Detection,100.0,PASS
+10,10.48550/arXiv.2609.01511,"Benchmarking Spatial, Spectral, and Self-Supervised Cues for Face Forgery Detection under Realistic Degradation","Benchmarking Spatial, Spectral, and Self-Supervised Cues for Face Forgery Detection under Realistic Degradation",100.0,PASS
+11,10.48550/arXiv.2404.06022,Band-Attention Modulation Network for Robust Face Forgery Detection,Band-Attention Modulation Network for Robust Face Forgery Detection,100.0,PASS
+13,10.48550/arXiv.2604.10862,LRD-Net: A Lightweight Real-Centered Detection Network for Cross-Domain Face Forgery Detection,LRD-Net: A Lightweight Real-Centered Detection Network for Cross-Domain Face Forgery Detection,100.0,PASS
+14,10.48550/arXiv.2603.02886,StegaFFD: Privacy-Preserving Face Forgery Detection via Fine-Grained Steganographic Domain Lifting,StegaFFD: Privacy-Preserving Face Forgery Detection via Fine-Grained Steganographic Domain Lifting,100.0,PASS
+17,10.48550/arXiv.2409.18301,Wavelet-Driven Generalizable Framework for Deepfake Face Forgery Detection,Wavelet-Driven Generalizable Framework for Deepfake Face Forgery Detection,100.0,PASS
+19,10.48550/arXiv.2110.03290,MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection,MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection,100.0,PASS
+20,10.48550/arXiv.2304.12489,Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection,Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection,100.0,PASS
+21,10.48550/arXiv.2207.01906,Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario,Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario,100.0,PASS
+23,10.48550/arXiv.2212.14629,Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues,Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues,100.0,PASS
+30,10.48550/arXiv.2112.13977,Exploiting Fine-grained Face Forgery Clues via Progressive Enhancement Learning,Exploiting Fine-grained Face Forgery Clues via Progressive Enhancement Learning,100.0,PASS
+33,10.48550/arXiv.2305.10794,Multi-spectral Class Center Network for Face Manipulation Detection and Localization,Multi-spectral Class Center Network for Face Manipulation Detection and Localization,100.0,PASS
+34,10.48550/arXiv.2604.25889,Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles,Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles,100.0,PASS
+39,10.48550/arXiv.2609.14437,Lightweight Generalized DeepFake Face Detection with WAVIE: Wavelet Augmented Vision Intermediate Embeddings,Lightweight Generalized DeepFake Face Detection with WAVIE: Wavelet Augmented Vision Intermediate Embeddings,100.0,PASS
+40,10.48550/arXiv.2607.17441,An Explainable FFT-Based Spatial-Frequency Fusion Framework for Deepfake Detection,An Explainable FFT-Based Spatial-Frequency Fusion Framework for Deepfake Detection,100.0,PASS
+42,10.48550/arXiv.2507.20608,Enhanced Deep Learning DeepFake Detection Integrating Handcrafted Features,Enhanced Deep Learning DeepFake Detection Integrating Handcrafted Features,100.0,PASS
+43,10.48550/arXiv.2504.17223,Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion,Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion,100.0,PASS
+45,10.48550/arXiv.2605.29092,Lightweight Complementary-Cue Fusion for Robust Video Face Forgery Detection,Lightweight Complementary-Cue Fusion for Robust Video Face Forgery Detection,100.0,PASS
+52,10.48550/arXiv.2408.01668,Multiple Contexts and Frequencies Aggregation Network forDeepfake Detection,Multiple Contexts and Frequencies Aggregation Network forDeepfake Detection,100.0,PASS
+55,10.48550/arXiv.2302.10437,Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection,Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection,100.0,PASS
+57,10.48550/arXiv.2507.02398,Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection,Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection,100.0,PASS
+60,10.48550/arXiv.2406.08625,FSBI: Deepfakes Detection with Frequency Enhanced Self-Blended Images,FSBI: Deepfakes Detection with Frequency Enhanced Self-Blended Images,100.0,PASS
+62,10.48550/arXiv.2404.13872,FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge,FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge,100.0,PASS
+63,10.48550/arXiv.2609.22284,Complementary rPPG-Derived and Lip-Region Frequency Cues for Talking-Face Deepfake Detection,Complementary rPPG-Derived and Lip-Region Frequency Cues for Talking-Face Deepfake Detection,100.0,PASS
+64,10.48550/arXiv.2604.17477,Unveiling Deepfakes: A Frequency-Aware Triple Branch Network for Deepfake Detection,Unveiling Deepfakes: A Frequency-Aware Triple Branch Network for Deepfake Detection,100.0,PASS
+71,10.48550/arXiv.2509.22412,FreqDebias: Towards Generalizable Deepfake Detection via Consistency-Driven Frequency Debiasing,FreqDebias: Towards Generalizable Deepfake Detection via Consistency-Driven Frequency Debiasing,100.0,PASS
+72,10.48550/arXiv.2510.24640,A Dual-Branch CNN for Robust Detection of AI-Generated Facial Forgeries,A Dual-Branch CNN for Robust Detection of AI-Generated Facial Forgeries,100.0,PASS
+75,10.48550/arXiv.2103.13567,Deepfake Forensics via An Adversarial Game,Deepfake Forensics via An Adversarial Game,100.0,PASS
+76,10.48550/arXiv.2502.10682,CAE-Net: Generalized Deepfake Image Detection using Convolution and Attention Mechanisms with Spatial and Frequency Domain Features,CAE-Net: Generalized Deepfake Image Detection using Convolution and Attention Mechanisms with Spatial and Frequency Domain Features,100.0,PASS
+78,10.48550/arXiv.2211.03346,Cross-Domain Local Characteristic Enhanced Deepfake Video Detection,Cross-Domain Local Characteristic Enhanced Deepfake Video Detection,100.0,PASS
+82,10.48550/arXiv.2104.09770,M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection,M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection,100.0,PASS
+84,10.48550/arXiv.2509.22070,SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection,SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection,100.0,PASS
+86,10.48550/arXiv.2508.20449,A Spatial-Frequency Aware Multi-Scale Fusion Network for Real-Time Deepfake Detection,A Spatial-Frequency Aware Multi-Scale Fusion Network for Real-Time Deepfake Detection,100.0,PASS
+92,10.48550/arXiv.2609.03446,Preserving Knowledge across Space and Time for Continual Video Deepfake Detection,Preserving Knowledge across Space and Time for Continual Video Deepfake Detection,100.0,PASS
+95,10.48550/arXiv.2503.17184,D2Fusion: Dual-domain Fusion with Feature Superposition for Deepfake Detection,D2Fusion: Dual-domain Fusion with Feature Superposition for Deepfake Detection,100.0,PASS
+102,10.48550/arXiv.2109.07311,MD-CSDNetwork: Multi-Domain Cross Stitched Network for Deepfake Detection,MD-CSDNetwork: Multi-Domain Cross Stitched Network for Deepfake Detection,100.0,PASS
+103,10.48550/arXiv.2606.14230,A Multi-Domain Feature Fusion Framework for Generalizable Deepfake Detection Across Different Generators,A Multi-Domain Feature Fusion Framework for Generalizable Deepfake Detection Across Different Generators,100.0,PASS
+105,10.48550/arXiv.2608.28685,"Data Diversity, Not Frequency Invariance: A Controlled and Self-Audited Study of Compression-Robust Deepfake Detection","Data Diversity, Not Frequency Invariance: A Controlled and Self-Audited Study of Compression-Robust Deepfake Detection",100.0,PASS
+106,10.48550/arXiv.2603.07515,EvolveReason: Self-Evolving Reasoning Paradigm for Explainable Deepfake Facial Image Identification,EvolveReason: Self-Evolving Reasoning Paradigm for Explainable Deepfake Facial Image Identification,100.0,PASS
+114,10.48550/arXiv.2510.17264,Fair and Interpretable Deepfake Detection in Videos,Fair and Interpretable Deepfake Detection in Videos,100.0,PASS
+115,10.48550/arXiv.2601.03382,A Novel Unified Approach to Deepfake Detection,A Novel Unified Approach to Deepfake Detection,100.0,PASS
+117,10.48550/arXiv.2411.05335,A Quality-Centric Framework for Generic Deepfake Detection,A Quality-Centric Framework for Generic Deepfake Detection,100.0,PASS
+126,10.48550/arXiv.2209.05419,Multimodal Graph Learning for Deepfake Detection,Multimodal Graph Learning for Deepfake Detection,100.0,PASS
+137,10.48550/arXiv.2509.07178,Realism to Deception: Investigating Deepfake Detectors Against Face Enhancement,Realism to Deception: Investigating Deepfake Detectors Against Face Enhancement,100.0,PASS
+145,10.48550/arXiv.2508.10741,Forgery Guided Learning Strategy with Dual Perception Network for Deepfake Cross-domain Detection,Forgery Guided Learning Strategy with Dual Perception Network for Deepfake Cross-domain Detection,100.0,PASS
+152,10.48550/arXiv.2608.28777,FairReL: Deepfake Detection using Fairness-Aware Representation Learning,FairReL: Deepfake Detection using Fairness-Aware Representation Learning,100.0,PASS
+175,10.48550/arXiv.2510.27392,A Hybrid Deep Learning and Forensic Approach for Robust Deepfake Detection,A Hybrid Deep Learning and Forensic Approach for Robust Deepfake Detection,100.0,PASS
+188,10.48550/arXiv.2008.03412,Two-branch Recurrent Network for Isolating Deepfakes in Videos,Two-branch Recurrent Network for Isolating Deepfakes in Videos,100.0,PASS
+194,10.48550/arXiv.2604.08159,Face-D(^2)CL: Multi-Domain Synergistic Representation with Dual Continual Learning for Facial DeepFake Detection,Face-D(^2)CL: Multi-Domain Synergistic Representation with Dual Continual Learning for Facial DeepFake Detection,100.0,PASS

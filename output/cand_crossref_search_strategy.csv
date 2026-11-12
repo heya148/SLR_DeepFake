@@ -1,0 +1,2 @@
+source,query_sent,retrieved_at,n_retrieved,total_available,truncated,status,detail
+crossref,"query.bibliographic=(""deepfake"" OR ""face forgery"" OR ""face manipulation"" OR ""face swap"" OR ""forgery detection"") AND (""frequency"" OR ""DCT"" OR ""discrete cosine"" OR ""Fourier"" OR ""spectral"" OR ""spectrum"" OR ""wavelet"" OR ""high-frequency"")",2026-11-12T08:35:08+00:00,100,371211,True,ok,

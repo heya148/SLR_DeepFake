@@ -1,0 +1,2 @@
+source,query_sent,retrieved_at,n_retrieved,total_available,truncated,status,detail
+arxiv,"search_query=all:(""deepfake"" OR ""face forgery"" OR ""face manipulation"" OR ""face swap"" OR ""forgery detection"") AND (""frequency"" OR ""DCT"" OR ""discrete cosine"" OR ""Fourier"" OR ""spectral"" OR ""spectrum"" OR ""wavelet"" OR ""high-frequency"")  (NOTE: arXiv's parser does not support the boolean/field syntax the other sources use, so the term string is sent as a plain all-fields search)",2026-11-12T08:35:25+00:00,200,281,True,ok,

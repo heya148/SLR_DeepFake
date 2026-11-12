@@ -1,0 +1,1 @@
+("deepfake" OR "face forgery" OR "face manipulation" OR "face swap" OR "forgery detection") AND ("frequency" OR "DCT" OR "discrete cosine" OR "Fourier" OR "spectral" OR "spectrum" OR "wavelet" OR "high-frequency")

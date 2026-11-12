@@ -1,0 +1,103 @@
+id,title,title_match,words,datasets,code,n_face,n_forgery,n_freq,n_xdata,n_rgbabl,n_code,n_vit,n_clip
+1,Generalizing Face Forgery Detection with High-frequency Features,100.0,5138,FaceForensics++;DFDC;DFD;DeeperForensics,,63,81,54,31,4,0,0,0
+2,WMamba: Wavelet-based Mamba for Face Forgery Detection,100.0,5838,FaceForensics++;DFDC;DFDCP;FFIW,,56,70,70,39,6,0,26,0
+3,Multi-Scale Wavelet Transformer for Face Forgery Detection,100.0,5489,FaceForensics++;Celeb-DF;WildDeepfake;FFIW,,50,80,157,46,14,0,19,0
+4,Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues,100.0,5820,FaceForensics++,,67,94,120,0,9,0,0,0
+5,Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain,100.0,4873,FaceForensics++;Celeb-DF,,86,76,77,34,2,0,0,0
+6,Attention Consistency Refined Masked Frequency Forgery Representation for Generalizing Face Forgery Detection,100.0,7940,FaceForensics++;Celeb-DF;DFD,github.com/chenboluo/ACMF.,75,203,74,73,3,2,1,0
+7,Open Set Face Forgery Detection via Dual-Level Evidence Collection,100.0,9273,DF40,,82,115,18,31,8,0,6,24
+8,Local Relation Learning for Face Forgery Detection,100.0,4882,FaceForensics++;Celeb-DF;DFDC;DFD,,76,78,36,14,6,0,0,0
+10,"Benchmarking Spatial, Spectral, and Self-Supervised Cues for Face Forgery Detection under Realistic Degradation",100.0,4822,FaceForensics++;Celeb-DF;DFDC,github.com/lucasdocunha/FaceForgery-Benchmark,38,44,58,9,0,1,23,12
+11,Band-Attention Modulation Network for Robust Face Forgery Detection,100.0,6852,FaceForensics++;Celeb-DF;DFDC;GenImage,,53,97,76,36,3,0,12,0
+13,LRD-Net: A Lightweight Real-Centered Detection Network for Cross-Domain Face Forgery Detection,100.0,4458,,,43,55,28,28,1,0,0,1
+14,StegaFFD: Privacy-Preserving Face Forgery Detection via Fine-Grained Steganographic Domain Lifting,100.0,8581,FaceForensics++;DFDC;DFDCP;DFD;UADFV,,146,73,47,20,4,0,4,0
+15,Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection,100.0,5615,,,91,93,43,2,2,0,0,0
+16,Hierarchical Deep Fusion Framework for Multi-dimensional Facial Forgery Detection - The 2024 Global Deepfake Image Detection Challenge,100.0,1650,,,9,20,1,2,1,0,5,0
+17,Wavelet-Driven Generalizable Framework for Deepfake Face Forgery Detection,100.0,5006,FaceForensics++;Celeb-DF,,26,82,92,45,0,0,26,50
+18,Adaptive Frequency Learning in Two-branch Face Forgery Detection,100.0,2607,FaceForensics++,github.com/Cadene/pretrained-models.pytorch;github.com/timesler/facenet-pytorch,16,29,31,0,10,2,0,0
+19,MC-LCR: Multi-modal contrastive classification by locally correlated representations for effective face forgery detection,100.0,10539,FaceForensics++;Celeb-DF;DeeperForensics,,118,132,116,33,13,0,1,0
+20,Beyond the Prior Forgery Knowledge: Mining Critical Clues for General Face Forgery Detection,100.0,10661,FaceForensics++;Celeb-DF;DFDC;DFD;WildDeepfake,github.com/MarekKowalski/FaceSwap;github.com/deepfakes/.;github.com/deepfakes/faceswap,118,193,19,42,6,3,3,0
+21,Spatial-Temporal Frequency Forgery Clue for Video Forgery Detection in VIS and NIR Scenario,100.0,6819,FaceForensics++;Celeb-DF;WildDeepfake,,58,158,160,49,5,0,1,0
+22,Spatiality-Frequency Domain Video Forgery Detection System Based on ResNet-LSTM-CBAM and DCT Hybrid Network,99.06542056074767,8667,,github.com/SparkleXFantasy/MM-Det,6,56,44,0,12,1,5,1
+23,Hierarchical Forgery Classifier On Multi-modality Face Forgery Clues,100.0,10437,WildDeepfake,github.com/EdWhites/HFC-MFFD.,141,283,86,35,4,2,5,0
+24,Wavelet-Packets for Deepfake Image Analysis and Detection,100.0,9074,,github.com/NVlabs/ffhq-dataset;github.com/fyu/lsun.;github.com/gan-police/frequency-forensics;github.com/ondyari/FaceFor,22,28,211,0,0,7,0,1
+26,Curvelet-Based Frequency-Aware Feature Enhancement for Deepfake Detection,100.0,5615,FaceForensics++,,26,54,40,2,0,0,0,0
+28,Exploring Specular Reflection Inconsistency for Generalizable Face Forgery Detection,92.85714285714286,8494,FaceForensics++;DFD;DF40,,118,112,13,17,3,0,0,3
+29,Fighting deepfakes by detecting GAN DCT anomalies,100.0,8450,FaceForensics++,github.com/LynnHo/AttGAN-Tensorflow;github.com/NVlabs/ffhq-dataset;github.com/NVlabs/stylegan;github.com/NVlabs/stylegan,54,73,58,1,0,6,0,0
+30,Exploiting Fine-grained Face Forgery Clues via Progressive Enhancement Learning,100.0,5081,FaceForensics++;Celeb-DF;DFDC;DFD;WildDeepfake,,51,65,31,30,7,0,0,0
+33,Multi-spectral Class Center Network for Face Manipulation Detection and Localization,100.0,4920,FaceForensics++,,51,115,71,5,0,0,0,0
+34,Robust Deepfake Detection: Mitigating Spatial Attention Drift via Calibrated Complementary Ensembles,100.0,4990,FaceForensics++;Celeb-DF;DFDC;DFDCP;DeeperForensics;FFIW;DF40;UADFV,github.com/khoalephanminh/ntire26deepfake-challenge.,34,27,8,15,5,1,5,16
+36,Frequency-Aware Deepfake Detection: Improving Generalizability through Frequency Space Learning,100.0,5626,FaceForensics++,github.com/chuangchuangtan/FreqNetDeepfakeDetection.,15,47,104,12,4,1,0,0
+38,Dual-Branch Convolutional Framework for Spatial and Frequency-Based Image Forgery Detection,100.0,6579,,,1,53,32,4,4,0,1,0
+39,Lightweight Generalized DeepFake Face Detection with WAVIE: Wavelet Augmented Vision Intermediate Embeddings,100.0,4308,FaceForensics++;Celeb-DF;WildDeepfake,github.com/Kappuccino111/WAVIE-Master,25,46,80,60,10,1,38,25
+40,An Explainable FFT-Based Spatial-Frequency Fusion Framework for Deepfake Detection,100.0,4884,FaceForensics++;Celeb-DF,,64,67,127,21,24,0,12,0
+42,Enhanced Deep Learning DeepFake Detection Integrating Handcrafted Features,100.0,3362,FaceForensics++;Celeb-DF,,43,71,52,12,1,0,2,0
+43,Towards Generalizable Deepfake Detection with Spatial-Frequency Collaborative Learning and Hierarchical Cross-Modal Fusion,100.0,4385,FaceForensics++;Celeb-DF;DFDC,,19,53,94,20,8,0,1,1
+44,Improving Video Deepfake Detection: A DCT-Based Approach with Patch-Level Analysis,100.0,2657,FaceForensics++;Celeb-DF,,36,76,14,8,0,0,1,0
+45,Lightweight Complementary-Cue Fusion for Robust Video Face Forgery Detection,100.0,4739,FaceForensics++;Celeb-DF;DFDC;DFDCP;DFD;UADFV,,25,29,43,52,1,0,2,0
+52,Multiple Contexts and Frequencies Aggregation Network forDeepfake Detection,98.66666666666667,5323,FaceForensics++;DFDC;DFDCP;DFD;DeeperForensics,,89,68,44,22,3,0,7,0
+53,Deepfake Detection without Deepfakes: Generalization via Synthetic Frequency Patterns Injection,100.0,5188,,github.com/davide-coccomini/DeepfakeDetection-without-Deepfakes-Generalization-via-Synthetic-FrequencyPatterns-Injection,3,55,31,1,1,1,11,0
+54,ADD: Frequency Attention and Multi-View based Knowledge Distillation to Detect Low-Quality Compressed Deepfake Images,100.0,5570,FaceForensics++,github.com/Leminhbinh0209/ADD.git,24,51,27,1,3,1,0,0
+55,Two-in-one Knowledge Distillation for Efficient Facial Forgery Detection,100.0,5881,FaceForensics++;Celeb-DF,,34,50,55,28,11,0,0,0
+57,Beyond Spatial Frequency: Pixel-wise Temporal Frequency-based Deepfake Video Detection,100.0,9236,FaceForensics++;Celeb-DF;DFDC;DFD,,40,74,85,44,7,0,47,9
+60,FSBI: Deepfakes Detection with Frequency Enhanced Self-Blended Images,100.0,6665,Celeb-DF,github.com/MarekKowalski/FaceSwap,40,157,41,37,4,1,15,0
+62,FreqBlender: Enhancing DeepFake Detection by Blending Frequency Knowledge,100.0,5602,FaceForensics++;Celeb-DF;DFDC;DFDCP;FFIW,github.com/AlgoHunt/Face-Xray;github.com/Leminhbinh0209/F3Net;github.com/jtchen0528/PCL-I2G,150,60,23,39,0,3,6,0
+63,Complementary rPPG-Derived and Lip-Region Frequency Cues for Talking-Face Deepfake Detection,100.0,3031,Celeb-DF,github.com/AI-Advanced-VisionForensics-Lab/rppg-dct-fusion,38,19,53,6,1,1,1,1
+64,Unveiling Deepfakes: A Frequency-Aware Triple Branch Network for Deepfake Detection,100.0,10276,FaceForensics++;Celeb-DF;DFDC;DFDCP;DF40,github.com/MarekKowalski/FaceSwap;github.com/deepfakes/faceswap;github.com/injooker/Unveiling,51,177,79,65,27,4,4,0
+69,FrePGAN: Robust Deepfake Detection Using Frequency-level Perturbations,100.0,5434,,,13,89,35,8,5,0,4,0
+71,FreqDebias: Towards Generalizable Deepfake Detection via Consistency-Driven Frequency Debiasing,100.0,6681,Celeb-DF;DFDC;DFDCP;DFD,,27,120,48,35,4,0,0,0
+72,A Dual-Branch CNN for Robust Detection of AI-Generated Facial Forgeries,100.0,4813,,,52,87,38,6,12,0,2,0
+74,SFANet: Spatial-Frequency Attention Network for Deepfake Detection,100.0,5229,FaceForensics++;Celeb-DF;UADFV,,30,68,24,4,0,0,87,1
+75,Deepfake Forensics via An Adversarial Game,100.0,11504,FaceForensics++;Celeb-DF;DFD,github.com/MarekKowalski/FaceSwap;github.com/ah651/deepfake;github.com/deepfakes/faceswap,58,140,2,54,0,3,0,0
+76,CAE-Net: Generalized Deepfake Image Detection using Convolution and Attention Mechanisms with Spatial and Frequency Domain Features,88.60759493670886,9605,FaceForensics++;Celeb-DF;DFDC;DFD;UADFV,,17,57,71,29,7,0,36,0
+78,Cross-Domain Local Characteristic Enhanced Deepfake Video Detection,100.0,5400,FaceForensics++;Celeb-DF;DFDC,,35,88,22,69,3,0,0,3
+81,On Improving Robustness of Deepfake Image Detectors,100.0,10840,GenImage,,7,49,75,5,4,0,14,25
+82,M2TR: Multi-modal Multi-scale Transformers for Deepfake Detection,100.0,6353,FaceForensics++;Celeb-DF;DFDC;DFD;WildDeepfake;UADFV;ForgeryNet,,67,124,17,37,4,0,43,0
+83,On the Exploitation of DCT-Traces in the Generative-AI Domain,100.0,5224,,github.com/CompVis/stable-diffusion;github.com/borisdayma/dallemini,2,21,28,0,0,2,0,1
+84,SpecXNet: A Dual-Domain Convolutional Network for Robust Deepfake Detection,100.0,6954,FaceForensics++;GenImage,,5,56,105,12,1,0,5,4
+86,A Spatial-Frequency Aware Multi-Scale Fusion Network for Real-Time Deepfake Detection,100.0,3892,FaceForensics++;Celeb-DF;DFDC;DFDCP;DFD;UADFV,,6,45,10,19,6,0,2,0
+89,SEED: A Large-Scale Benchmark for Provenance Tracing in Sequential Deepfake Facial Edits,100.0,5263,FaceForensics++;Celeb-DF;DeeperForensics;DiffusionFace;GenImage;ForgeryNet,,28,42,65,5,2,0,10,0
+91,Faster Than Lies: Real-time Deepfake Detection using Binary Neural Networks,100.0,4462,FaceForensics++,,9,51,23,1,7,0,7,2
+92,Preserving Knowledge across Space and Time for Continual Video Deepfake Detection,100.0,11178,FaceForensics++;Celeb-DF;DFDC;DFD;FFIW;DF40,github.com/rama0126/MSFD.,26,127,64,61,15,1,5,16
+93,Phase4DFD: Multi-Domain Phase-Aware Attention for Deepfake Detection,100.0,3577,,,7,47,47,1,11,0,0,0
+95,D2Fusion: Dual-domain Fusion with Feature Superposition for Deepfake Detection,100.0,9254,FaceForensics++;Celeb-DF;DFDC;DeeperForensics,,66,131,67,40,3,0,3,0
+97,SpectraNet: FFT-assisted Deep Learning Classifier for Deepfake Face Detection,100.0,2520,,,11,23,9,2,0,0,0,0
+98,"Scalable, Energy-Efficient Optical-Neural Architecture for Multiplexed Deepfake Video Detection",100.0,7782,Celeb-DF;DFDC,,22,71,5,23,4,0,2,2
+100,On the Holistic Approach for Detecting Human Image Forgery,100.0,5563,FaceForensics++;Celeb-DF,,73,146,22,3,2,0,3,1
+102,MD-CSDNetwork: Multi-Domain Cross Stitched Network for Deepfake Detection,100.0,6455,FaceForensics++;Celeb-DF;DFD,github.com/deepfakes/faceswap.;github.com/marekkowalski/faceswap,61,101,85,18,7,2,0,0
+103,A Multi-Domain Feature Fusion Framework for Generalizable Deepfake Detection Across Different Generators,100.0,10096,Celeb-DF;DFDC,github.com/OpenRL-Lab/DeepFakeFace;github.com/Rapisurazurite/DiffFace,28,95,113,37,13,2,9,0
+105,"Data Diversity, Not Frequency Invariance: A Controlled and Self-Audited Study of Compression-Robust Deepfake Detection",55.93220338983051,19217,FaceForensics++;Celeb-DF;DFDC;DFD;WildDeepfake,,46,48,52,80,27,0,0,1
+106,EvolveReason: Self-Evolving Reasoning Paradigm for Explainable Deepfake Facial Image Identification,100.0,4905,FaceForensics++;DFDC;DFD,,45,83,9,22,3,0,2,1
+108,Preliminary Forensics Analysis of DeepFake Images,100.0,5471,,github.com/MarekKowalski/FaceSwap;github.com/dawei6875797/Face-Aging-with-IdentityPreserved-Conditional-Generative-Adver,50,74,16,0,0,7,0,0
+113,Cross-Branch Orthogonality for Improved Generalization in Face Deepfake Detection,100.0,10258,FaceForensics++;Celeb-DF;DFDC,,58,158,6,68,8,0,15,0
+114,Fair and Interpretable Deepfake Detection in Videos,100.0,6532,FaceForensics++;Celeb-DF;DFDC;DFD,,22,114,33,32,5,0,2,1
+115,A Novel Unified Approach to Deepfake Detection,100.0,7241,FaceForensics++;Celeb-DF;DFDC;DFD;WildDeepfake,,89,126,79,29,0,0,16,0
+117,A Quality-Centric Framework for Generic Deepfake Detection,98.27586206896551,5982,FaceForensics++;Celeb-DF;DFDC;WildDeepfake;DF40,,49,114,19,40,8,0,10,0
+118,CAD: A General Multimodal Framework for Video Deepfake Detection via Cross-Modal Alignment and Distillation,100.0,4873,FaceForensics++;Celeb-DF;DFD,,26,75,6,12,5,0,1,6
+121,Compressed Deepfake Video Detection Based on 3D Spatiotemporal Trajectories,100.0,7378,FaceForensics++;Celeb-DF;DFDC,github.com/Deepfakes/faceSwap.;github.com/MarekKowalski/FaceSwap.,151,95,3,21,3,2,7,0
+122,Pulse or Provenance? What rPPG-Based Deepfake Detectors Learn,100.0,7268,FaceForensics++;Celeb-DF,,98,60,23,45,0,0,1,30
+123,ViGText: Deepfake Image Detection with Vision-Language Model Explanations and Graph Neural Networks,100.0,13295,,,29,143,39,3,0,0,8,13
+124,DefakeHop++: An Enhanced Lightweight Deepfake Detector,100.0,4937,FaceForensics++;Celeb-DF;DFDC;UADFV,,32,49,7,37,0,0,2,0
+126,Multimodal Graph Learning for Deepfake Detection,100.0,9466,DFD,,68,133,45,33,2,0,15,0
+129,Towards Robust DeepFake Detection under Unstable Face Sequences: Adaptive Sparse Graph Embedding with Order-Free Representation and Explicit Laplacian Spectral Prior,100.0,13399,FaceForensics++;Celeb-DF;DFDC,github.com/rccreager/hideface,159,137,53,46,6,1,23,0
+131,FakeChain: Exposing Shallow Cues in Multi-Step Deepfake Detection,100.0,7216,FaceForensics++,github.com/minjihh/FakeChain,92,227,34,1,0,1,21,1
+136,Unified Frequency-Assisted Transformer Framework for Detecting and Grounding Multi-Modal Manipulation,100.0,8633,,,81,290,75,0,13,0,24,5
+137,Realism to Deception: Investigating Deepfake Detectors Against Face Enhancement,100.0,3648,FaceForensics++;Celeb-DF;DFD,,58,63,20,17,1,0,0,0
+144,R$^2$M: Real-Aware Residual Model Merging for Robust and Generalizable Deepfake Detection,97.72727272727273,7144,FaceForensics++;Celeb-DF;DF40,,12,71,25,46,2,0,0,1
+145,Forgery Guided Learning Strategy with Dual Perception Network for Deepfake Cross-domain Detection,100.0,7690,FaceForensics++;Celeb-DF;DFDC;DeeperForensics,github.com/vpsg-research/FGL.,31,211,35,26,8,1,0,0
+148,Spectra: Multi-Scale Implicit Decomposition for Deepfake Detection,100.0,5443,FaceForensics++;Celeb-DF;DFD,,32,68,12,20,10,0,9,20
+151,CAMME: Adaptive Deepfake Image Detection with Multi-Modal Cross-Attention,100.0,7662,GenImage,github.com/Magnet300/CAMME.git.,20,50,61,30,3,1,3,5
+152,FairReL: Deepfake Detection using Fairness-Aware Representation Learning,100.0,6657,FaceForensics++;Celeb-DF;DFDC;DFD,github.com/xiaoman89/FairReL.,16,49,41,58,5,1,5,15
+165,MSU Team at the Explainable Deepfake Detection Challenge 2026: Grounded Artifact Evidence for Deepfake Detection,100.0,4947,FaceForensics++;GenImage,,2,33,6,0,4,0,3,1
+166,Exposing the Deception: Uncovering More Forgery Clues for Deepfake Detection,100.0,5520,FaceForensics++;Celeb-DF;DFDC,,24,86,3,62,7,0,0,0
+171,Generalizable Deepfake Detection Based on Forgery-aware Layer Masking and Multi-artifact Subspace Decomposition,100.0,10892,FaceForensics++;Celeb-DF;DFDC;DFDCP;DFD;DF40,github.com/MarekKowalski/FaceSwap;github.com/deepfakes/faceswap;github.com/haofanwang/inswapper,72,218,19,73,5,3,13,12
+174,Statistics-aware Audio-visual Deepfake Detector,100.0,5278,DFDC,github.com/abhinavdhall/deepfake,10,51,2,15,2,1,4,0
+175,A Hybrid Deep Learning and Forensic Approach for Robust Deepfake Detection,100.0,5711,FaceForensics++;Celeb-DF;DFDC,,25,82,17,38,3,0,38,2
+182,Beyond the Spectrum: Detecting Deepfakes via Re-Synthesis,100.0,5449,,github.com/SSAW14/BeyondtheSpectrum.,8,12,41,6,0,1,0,0
+185,Anisotropic multiresolution analyses for deepfake detection,100.0,5519,,github.com/muchip/fmca.,4,11,104,0,0,1,0,0
+186,FakeParts: a New Family of AI-Generated DeepFakes,100.0,5460,FaceForensics++;Celeb-DF;DFDC;DeeperForensics;WildDeepfake;DF40;DiffusionFace;GenImage;ForgeryNet,,39,110,4,9,0,0,5,15
+187,Evidence Packing for Cross-Domain Image Deepfake Detection with LVLMs,100.0,5072,,,2,46,21,1,0,0,11,1
+188,Two-branch Recurrent Network for Isolating Deepfakes in Videos,100.0,6620,FaceForensics++;Celeb-DF;DFDC;DFD;UADFV,,112,107,6,23,11,0,0,0
+194,Face-D(^2)CL: Multi-Domain Synergistic Representation with Dual Continual Learning for Facial DeepFake Detection,98.1981981981982,4932,FaceForensics++;Celeb-DF;DFDC;DFDCP;DFD;WildDeepfake;DF40;UADFV,,49,85,46,37,2,0,0,5
+195,ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection,100.0,4226,FaceForensics++;Celeb-DF;DFDC,,24,56,14,17,18,0,14,0
+200,ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models,100.0,5100,DFD,github.com/laiyingxin2/ForensicZip.,2,37,14,1,3,1,3,0

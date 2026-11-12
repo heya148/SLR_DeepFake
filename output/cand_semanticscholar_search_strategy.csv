@@ -1,0 +1,2 @@
+source,query_sent,retrieved_at,n_retrieved,total_available,truncated,status,detail
+semanticscholar,query=deepfake detection frequency domain&year=2019-2026,2026-11-12T08:35:35+00:00,0,,False,failed,429 Client Error:  for url: https://api.semanticscholar.org/graph/v1/paper/search?query=deepfake+detection+frequency+domain&year=2019-2026&fields=title%2Cauthors%2Cyear%2Cvenue%2CexternalIds%2Curl%2Cabstract&offset=0&limit=100
