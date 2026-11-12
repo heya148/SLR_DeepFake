@@ -2,7 +2,8 @@
 
 This repository holds the data and scripts for a systematic literature review (SLR) on frequency-domain face deepfake detection. The review follows PRISMA 2020 and the Kitchenham and Charters (2007) guidelines. It uses the [systematic-review-pipeline](https://github.com/nayeem-hossain/systematic-review-pipeline) toolkit.
 
-**Author:** Mst. Fatema Nusrat, Department of Software Engineering, Daffodil International University
+**Author:** Mst. Fatema Nusrat - Heya, Department of Software Engineering, Daffodil International University
+
 **Supervisor:** Dr. Rubaiyat Islam
 
 > **Status: draft, first search run (12 Nov 2026).**
