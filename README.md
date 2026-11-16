@@ -7,7 +7,7 @@ This repository holds the data and scripts for a systematic literature review (S
 **Supervisor:** Dr. Rubaiyat Islam
 
 > **Status: draft, first search run (12 Nov 2026).**
-> All screening and extraction decisions are AI-assisted proposals. They are being checked by hand against each paper. Do not cite the numbers yet.
+> The initial literature search has been completed. Screening and data extraction are currently in progress. All records are being reviewed against the original papers to verify eligibility, extracted information, and quality assessments. The results are preliminary and should not be cited until the verification process is complete.
 
 ## Research questions
 
