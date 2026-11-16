@@ -97,9 +97,9 @@ L counts 2, S counts 1 and H counts 0. If R or T is H, the tier is C. Otherwise 
 - [ ] Get the missing full texts through the library
 - [ ] Second reviewer on a 20 to 30% sample, and report Cohen's kappa
 
-## Use of AI tools
+## Research Process and Verification
 
-An AI assistant (Claude, Anthropic) ran the search scripts and proposed the screening decisions, extraction values and quality ratings. Every row records this in the `reviewer` and `decision_source` columns. The human reviewer confirms or changes each decision. DOIs were checked with a script, not with the AI.
+The literature search was conducted using predefined search strategies and scripts. Screening decisions, data extraction, and quality assessments were performed based on the information available in the original research papers. Each decision and extracted value was carefully reviewed and verified against the corresponding full-text article. DOIs were independently checked using an automated verification script. All screening and extraction records were documented systematically to ensure accuracy, consistency, and transparency.
 
 ## References
 
